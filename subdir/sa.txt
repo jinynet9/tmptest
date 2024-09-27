@@ -1,0 +1,2 @@
+
+[ 1070.261919] type=1400 audit(1687851288.599:46): avc: denied { kill } for pid=15214 comm="ip" capability=5 scontext=system_u:system_r:ifconfig_t:s0-s15:c0.c1023 tcontext=system_u:system_r:ifconfig_t:s0-s15:c0.c1023 tclass=capability permissive=0
